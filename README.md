@@ -17,7 +17,7 @@
 ## Snapshot 3 - Start (blue)
 ![snapshot3](snapshots/snapshot3.png)
 
-## Snapshot 4 - Start (gray)
+## Snapshot 4 - Start (grey)
 ![snapshot4](snapshots/snapshot4.png)
 
 ## Snapshot 5 - Valid Moves
