@@ -1,4 +1,4 @@
-### Game Instructions:
+### ⚫Game Instructions:
 
 #### Entry point: main.py
  #### 1.) Press 't' to change theme (green, brown, blue, grey)
@@ -24,5 +24,5 @@
 ## Snapshot 6 - Castling
 ![snapshot6](snapshots/snapshot6.png)
 
-### Have fun! ;)
+### Have fun✌️! ;)
 ##### ©2022 Erik Shrestha
