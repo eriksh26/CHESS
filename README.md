@@ -1,8 +1,8 @@
 # Game Instructions:
 
-## Entry point: main.py
- ## 1.) Press 't' to change theme (green, brown, blue, grey)
- ## 2.) Press 'r' to restart the game
+# Entry point: main.py
+ # 1.) Press 't' to change theme (green, brown, blue, grey)
+ # 2.) Press 'r' to restart the game
 
 # Game Snapshots
 
@@ -25,4 +25,4 @@
 ![snapshot6](snapshots/snapshot6.png)
 
 ## Have fun! ;)
-## ©2022 Erik Shrestha
+# ©2022 Erik Shrestha
