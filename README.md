@@ -1,8 +1,8 @@
 ### ⚫Game Instructions:
 
 #### Entry point: main.py
- #### 1.) Press 't' to change theme (green, brown, blue, grey)
- #### 2.) Press 'r' to restart the game
+ #### 1.) Press 't' to change the theme (green, brown, blue, grey).
+ #### 2.) Press 'r' to restart the game.
 
 # Game Snapshots
 
@@ -24,5 +24,5 @@
 ## Snapshot 6 - Castling
 ![snapshot6](snapshots/snapshot6.png)
 
-### Have fun✌️! ;)
-##### ©2022 Erik Shrestha
+### Have fun✌️! 
+##### ©2022, Erik Shrestha
